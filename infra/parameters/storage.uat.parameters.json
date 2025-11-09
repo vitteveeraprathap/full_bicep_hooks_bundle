@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountName": {
-      "value": "mystorageuat001"
+      "value": "mystorageuat711"
     },
     "containerName": {
       "value": "appcontainer"

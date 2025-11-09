@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "kvName": {
-      "value": "kv-myapp-dev-001"
+      "value": "vv-myapp-dev-001"
     },
     "location": {
       "value": "southeastasia"
