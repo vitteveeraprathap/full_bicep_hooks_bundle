@@ -6,7 +6,7 @@ param kvName string
 @description('Location (defaults to RG)')
 param location string = resourceGroup().location
 
-@allowed([ 'standard' 'premium' ])
+@allowed([ 'standard', 'premium' ])
 param skuName string = 'standard'
 
 param enableSoftDelete bool = true
