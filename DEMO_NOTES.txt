@@ -1,0 +1,7 @@
+Demo notes:
+- Show folder structure in VSCode.
+- Explain hooks: run scripts/install-hooks.sh then commit without JIRA -> fail, with JIRA -> pass.
+- Show pushing branch feature/se-1234 and PR into develop, show Actions failing/passing.
+- Run rg.deploy.yml then keyvault.deploy.yml from Actions.
+- Simulate delete storage in portal, re-run storage workflow to recreate.
+- Explain branch protection enabling after checks have run at least once.
